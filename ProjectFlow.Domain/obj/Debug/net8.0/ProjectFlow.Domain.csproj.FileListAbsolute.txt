@@ -1,0 +1,12 @@
+F:\ProjectFlow\ProjectFlow\ProjectFlow.Domain\bin\Debug\net8.0\ProjectFlow.Domain.deps.json
+F:\ProjectFlow\ProjectFlow\ProjectFlow.Domain\bin\Debug\net8.0\ProjectFlow.Domain.dll
+F:\ProjectFlow\ProjectFlow\ProjectFlow.Domain\bin\Debug\net8.0\ProjectFlow.Domain.pdb
+F:\ProjectFlow\ProjectFlow\ProjectFlow.Domain\obj\Debug\net8.0\ProjectFlow.Domain.csproj.AssemblyReference.cache
+F:\ProjectFlow\ProjectFlow\ProjectFlow.Domain\obj\Debug\net8.0\ProjectFlow.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\ProjectFlow\ProjectFlow\ProjectFlow.Domain\obj\Debug\net8.0\ProjectFlow.Domain.AssemblyInfoInputs.cache
+F:\ProjectFlow\ProjectFlow\ProjectFlow.Domain\obj\Debug\net8.0\ProjectFlow.Domain.AssemblyInfo.cs
+F:\ProjectFlow\ProjectFlow\ProjectFlow.Domain\obj\Debug\net8.0\ProjectFlow.Domain.csproj.CoreCompileInputs.cache
+F:\ProjectFlow\ProjectFlow\ProjectFlow.Domain\obj\Debug\net8.0\ProjectFlow.Domain.dll
+F:\ProjectFlow\ProjectFlow\ProjectFlow.Domain\obj\Debug\net8.0\refint\ProjectFlow.Domain.dll
+F:\ProjectFlow\ProjectFlow\ProjectFlow.Domain\obj\Debug\net8.0\ProjectFlow.Domain.pdb
+F:\ProjectFlow\ProjectFlow\ProjectFlow.Domain\obj\Debug\net8.0\ref\ProjectFlow.Domain.dll

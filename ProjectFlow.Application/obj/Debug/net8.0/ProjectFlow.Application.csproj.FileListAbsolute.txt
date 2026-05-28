@@ -1,0 +1,15 @@
+F:\ProjectFlow\ProjectFlow\ProjectFlow.Application\bin\Debug\net8.0\ProjectFlow.Application.deps.json
+F:\ProjectFlow\ProjectFlow\ProjectFlow.Application\bin\Debug\net8.0\ProjectFlow.Application.dll
+F:\ProjectFlow\ProjectFlow\ProjectFlow.Application\bin\Debug\net8.0\ProjectFlow.Application.pdb
+F:\ProjectFlow\ProjectFlow\ProjectFlow.Application\bin\Debug\net8.0\ProjectFlow.Domain.dll
+F:\ProjectFlow\ProjectFlow\ProjectFlow.Application\bin\Debug\net8.0\ProjectFlow.Domain.pdb
+F:\ProjectFlow\ProjectFlow\ProjectFlow.Application\obj\Debug\net8.0\ProjectFlow.Application.csproj.AssemblyReference.cache
+F:\ProjectFlow\ProjectFlow\ProjectFlow.Application\obj\Debug\net8.0\ProjectFlow.Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\ProjectFlow\ProjectFlow\ProjectFlow.Application\obj\Debug\net8.0\ProjectFlow.Application.AssemblyInfoInputs.cache
+F:\ProjectFlow\ProjectFlow\ProjectFlow.Application\obj\Debug\net8.0\ProjectFlow.Application.AssemblyInfo.cs
+F:\ProjectFlow\ProjectFlow\ProjectFlow.Application\obj\Debug\net8.0\ProjectFlow.Application.csproj.CoreCompileInputs.cache
+F:\ProjectFlow\ProjectFlow\ProjectFlow.Application\obj\Debug\net8.0\ProjectF.A03BF42E.Up2Date
+F:\ProjectFlow\ProjectFlow\ProjectFlow.Application\obj\Debug\net8.0\ProjectFlow.Application.dll
+F:\ProjectFlow\ProjectFlow\ProjectFlow.Application\obj\Debug\net8.0\refint\ProjectFlow.Application.dll
+F:\ProjectFlow\ProjectFlow\ProjectFlow.Application\obj\Debug\net8.0\ProjectFlow.Application.pdb
+F:\ProjectFlow\ProjectFlow\ProjectFlow.Application\obj\Debug\net8.0\ref\ProjectFlow.Application.dll

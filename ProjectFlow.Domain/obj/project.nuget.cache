@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OubXWni/TwM=",
+  "success": true,
+  "projectFilePath": "F:\\ProjectFlow\\ProjectFlow\\ProjectFlow.Domain\\ProjectFlow.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\bcrypt.net-next\\4.1.0\\bcrypt.net-next.4.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
