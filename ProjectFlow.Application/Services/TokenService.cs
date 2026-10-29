@@ -2,13 +2,9 @@
 using Microsoft.IdentityModel.Tokens;
 using ProjectFlow.Application.Interfaces;
 using ProjectFlow.Domain.Entities;
-using System;
-using System.Collections.Generic;
 using System.IdentityModel.Tokens.Jwt;
-using System.Linq;
 using System.Security.Claims;
 using System.Text;
-using System.Threading.Tasks;
 
 namespace ProjectFlow.Application.Services
 {
@@ -20,6 +16,8 @@ namespace ProjectFlow.Application.Services
         {
             _configuration = configuration;
         }
+
+       
 
         public string CreateToken(User user)
         {
@@ -46,6 +44,15 @@ namespace ProjectFlow.Application.Services
             );
 
             return new JwtSecurityTokenHandler().WriteToken(token);
+        }
+
+        public string RefreshToken(User user)
+        {
+            throw new NotImplementedException();
+        }
+        public string cancelToken(string token)
+        {
+            throw new NotImplementedException();
         }
     }
 }

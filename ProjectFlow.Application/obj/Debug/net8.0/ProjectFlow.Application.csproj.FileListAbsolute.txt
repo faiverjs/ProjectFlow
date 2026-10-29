@@ -13,3 +13,4 @@ F:\ProjectFlow\ProjectFlow\ProjectFlow.Application\obj\Debug\net8.0\ProjectFlow.
 F:\ProjectFlow\ProjectFlow\ProjectFlow.Application\obj\Debug\net8.0\refint\ProjectFlow.Application.dll
 F:\ProjectFlow\ProjectFlow\ProjectFlow.Application\obj\Debug\net8.0\ProjectFlow.Application.pdb
 F:\ProjectFlow\ProjectFlow\ProjectFlow.Application\obj\Debug\net8.0\ref\ProjectFlow.Application.dll
+F:\ProjectFlow\ProjectFlow\ProjectFlow.Application\obj\Debug\net8.0\ProjectFlow.Application.sourcelink.json

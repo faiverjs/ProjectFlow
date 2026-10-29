@@ -17,6 +17,18 @@ namespace ProjectFlow.Application.Services
             _tokenService = tokenService;
             _userRepository = userRepository;
         }
+        public async Task<string> Login(LoginDto dto)
+        {
+            var user = await _userRepository.GetByEmail(dto.Email);
+
+            if (user == null)
+                throw new UnauthorizedAccessException("Credenciales inválidas");
+
+            if (user.PasswordHash != dto.Password) ///user.PasswordHash != dto.Password  cundo ek problmes de emcriptar
+                throw new UnauthorizedAccessException("Credenciales inválidas");
+
+            return _tokenService.CreateToken(user);
+        }
 
         public async Task<UserDto> Add(UserInsertDto dto)
         {
@@ -40,7 +52,9 @@ namespace ProjectFlow.Application.Services
         }
         public async Task<IEnumerable<UserDto>> GetAll()
         {
+
             var users = await _userRepository.GetAll();
+
 
             return users.Select(u => new UserDto
             {
@@ -66,20 +80,10 @@ namespace ProjectFlow.Application.Services
             };
         }
 
-        public async Task<string> Login(LoginDto dto)
-        {
-            var user = await _userRepository.GetByEmail(dto.Email);
-
-            if (user == null)
-                throw new UnauthorizedAccessException("Credenciales inválidas");
-
-            if (user.PasswordHash != dto.Password) ///user.PasswordHash != dto.Password  cundo ek problmes de emcriptar
-                throw new UnauthorizedAccessException("Credenciales inválidas");
-
-            return _tokenService.CreateToken(user);
-        }
+       
         public async Task<UserDto?> Remove(Guid id)
         {
+
             var user = await _userRepository.GetById(id);
             if (user == null) return null;
 

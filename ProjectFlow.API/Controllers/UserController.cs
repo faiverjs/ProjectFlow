@@ -67,6 +67,7 @@ namespace ProjectFlow.API.Controllers
 
             return Ok(user);
         }
+        //Registrar nuevo usuario con nombre, email y contraseña.
         [HttpPost("register")]
         public async Task<IActionResult> Add(UserInsertDto userInsertDto)
         {
