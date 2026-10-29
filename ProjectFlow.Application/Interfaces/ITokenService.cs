@@ -10,5 +10,8 @@ namespace ProjectFlow.Application.Interfaces
     public interface ITokenService
     {
         string CreateToken(User user);
+
+        string RefreshToken(User user);
+        string cancelToken(string token);
     }
 }

@@ -10,3 +10,4 @@ F:\ProjectFlow\ProjectFlow\ProjectFlow.Domain\obj\Debug\net8.0\ProjectFlow.Domai
 F:\ProjectFlow\ProjectFlow\ProjectFlow.Domain\obj\Debug\net8.0\refint\ProjectFlow.Domain.dll
 F:\ProjectFlow\ProjectFlow\ProjectFlow.Domain\obj\Debug\net8.0\ProjectFlow.Domain.pdb
 F:\ProjectFlow\ProjectFlow\ProjectFlow.Domain\obj\Debug\net8.0\ref\ProjectFlow.Domain.dll
+F:\ProjectFlow\ProjectFlow\ProjectFlow.Domain\obj\Debug\net8.0\ProjectFlow.Domain.sourcelink.json

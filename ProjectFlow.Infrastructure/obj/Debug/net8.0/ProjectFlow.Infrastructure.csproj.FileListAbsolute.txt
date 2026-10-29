@@ -17,3 +17,4 @@ F:\ProjectFlow\ProjectFlow\ProjectFlow.Infrastructure\obj\Debug\net8.0\refint\Pr
 F:\ProjectFlow\ProjectFlow\ProjectFlow.Infrastructure\obj\Debug\net8.0\ProjectFlow.Infrastructure.pdb
 F:\ProjectFlow\ProjectFlow\ProjectFlow.Infrastructure\obj\Debug\net8.0\ProjectFlow.Infrastructure.genruntimeconfig.cache
 F:\ProjectFlow\ProjectFlow\ProjectFlow.Infrastructure\obj\Debug\net8.0\ref\ProjectFlow.Infrastructure.dll
+F:\ProjectFlow\ProjectFlow\ProjectFlow.Infrastructure\obj\Debug\net8.0\ProjectFlow.Infrastructure.sourcelink.json
